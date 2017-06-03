@@ -154,8 +154,8 @@ If you want to run tests from HTTPS, though, you will need to edit the VHost fil
 
 ### PostgreSQL and phpPgAdmin
 
-phpPgAdmin is available at `/phppgadmin`. The PostgreSQL port `5432` is exposed. The root account for PostgreSQL is 
-`postgres` and passwordis also set to `postgres`.
+phpPgAdmin is available at `/phppgadmin`. The PostgreSQL port `5432` is exposed. The root account for PostgreSQL is `postgres` and passwordis also set to `postgres`.
+Note, that it might take some time until PostgreSQL server is started after starting the container.
 
 ### Blackfire
 
